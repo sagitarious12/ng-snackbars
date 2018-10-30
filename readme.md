@@ -1,0 +1,1 @@
+# Ng-Snackbars easy snackbar creator
