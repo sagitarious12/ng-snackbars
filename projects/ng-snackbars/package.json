@@ -1,0 +1,26 @@
+{
+  "name": "ng-snackbars",
+  "version": "0.0.1",
+  "description": "Angular snackbar creator that makes the snackbar creation as simple as it gets, but also comes with many features for customization",
+  "keywords": [
+    "Angular",
+    "Snackbar",
+    "Snack",
+    "Angular 6",
+    "Angular 2",
+    "Angular 4",
+    "Angular 7",
+    "Popup"
+  ],
+  "license": "ISC",
+  "author": "Riley Worthen <rileyworthen.123@gmail.com>  (https://worthenweb.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagitarious12/ng-snackbars"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@ctrl/tinycolor": "^2.2.1"
+  }
+}
